@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cerpen Inspiratif</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/vendor/medium/medium.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/app/style.css">
+</head>
+<body>
+	<div class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+			        <span class="sr-only">Toggle navigation</span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			    </button>
+				<a href="http://localhost:4000" class="navbar-brand top ellipsis">
+					
+						Cerpen Inspiratif
+					
+				</a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		      <ul class="nav navbar-nav">
+		        <li><a target="_blank" href="https://play.google.com/store/apps/dev?id=6751907367958089476">Aplikasi Lainnya</a></li>
+		        <li><a target="_blank" href="https://play.google.com/store/apps/details?id=com.mzaini30.cerpeninspiratif">Review</a></li>
+		      </ul>
+		    </div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="list-group">
+	
+	
+		<a href="http://localhost:4000/2018/12/24/aku-belum-kalah-bu.html" data-url='/2018/12/24/aku-belum-kalah-bu.html' class="list-group-item">Aku Belum Kalah Bu</a>
+	
+		<a href="http://localhost:4000/2018/12/24/api-yang-berbeda.html" data-url='/2018/12/24/api-yang-berbeda.html' class="list-group-item">Api Yang Berbeda</a>
+	
+		<a href="http://localhost:4000/2018/12/24/dia.html" data-url='/2018/12/24/dia.html' class="list-group-item">Dia</a>
+	
+		<a href="http://localhost:4000/2018/12/24/dua-anak-itu.html" data-url='/2018/12/24/dua-anak-itu.html' class="list-group-item">Dua Anak Itu</a>
+	
+		<a href="http://localhost:4000/2018/12/24/filosofi-sebatang-pensil.html" data-url='/2018/12/24/filosofi-sebatang-pensil.html' class="list-group-item">Filosofi Sebatang Pensil</a>
+	
+		<a href="http://localhost:4000/2018/12/24/generasi-kartini.html" data-url='/2018/12/24/generasi-kartini.html' class="list-group-item">Generasi Kartini</a>
+	
+		<a href="http://localhost:4000/2018/12/24/impian-dalam-karantina.html" data-url='/2018/12/24/impian-dalam-karantina.html' class="list-group-item">Impian Dalam Karantina</a>
+	
+		<a href="http://localhost:4000/2018/12/24/jalan-nur-rahmi.html" data-url='/2018/12/24/jalan-nur-rahmi.html' class="list-group-item">Jalan Nur Rahmi</a>
+	
+		<a href="http://localhost:4000/2018/12/24/jeritan-yang-tersampaikan.html" data-url='/2018/12/24/jeritan-yang-tersampaikan.html' class="list-group-item">Jeritan Yang Tersampaikan</a>
+	
+		<a href="http://localhost:4000/2018/12/24/makna-dibalik-selembar-daun.html" data-url='/2018/12/24/makna-dibalik-selembar-daun.html' class="list-group-item">Makna Dibalik Selembar Daun</a>
+	
+		<a href="http://localhost:4000/2018/12/24/mata-najwa.html" data-url='/2018/12/24/mata-najwa.html' class="list-group-item">Mata Najwa</a>
+	
+		<a href="http://localhost:4000/2018/12/24/mulia-karena-mata-air.html" data-url='/2018/12/24/mulia-karena-mata-air.html' class="list-group-item">Mulia Karena Mata Air</a>
+	
+		<a href="http://localhost:4000/2018/12/24/sahabat-bumi.html" data-url='/2018/12/24/sahabat-bumi.html' class="list-group-item">Sahabat Bumi</a>
+	
+		<a href="http://localhost:4000/2018/12/24/si-pendekar-cimangguhilir.html" data-url='/2018/12/24/si-pendekar-cimangguhilir.html' class="list-group-item">Si Pendekar Cimangguhilir</a>
+	
+		<a href="http://localhost:4000/2018/12/24/the-best-parents.html" data-url='/2018/12/24/the-best-parents.html' class="list-group-item">The Best Parents</a>
+	
+		<a href="http://localhost:4000/2018/12/24/touch-the-sky.html" data-url='/2018/12/24/touch-the-sky.html' class="list-group-item">Touch The Sky</a>
+	
+		<a href="http://localhost:4000/2018/12/24/village-recycle.html" data-url='/2018/12/24/village-recycle.html' class="list-group-item">Village Recycle</a>
+	
+</div>
+	</div>
+	<br>
+	<script type="text/javascript" src="http://localhost:4000/vendor/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="http://localhost:4000/vendor/bootstrap/js/bootstrap.min.js"></script>
+	
+	
+		<script type="text/javascript">
+			posisi = localStorage.getItem('posisi')
+			$('.list-group-item').each(function(){
+				if ($(this).data('url') == posisi){
+					$(this).addClass('active')
+				}
+			})
+		</script>
+	
+	<script type="text/javascript">
+		posisi_scroll = localStorage.getItem('posisi /')
+		$('html, body').animate({
+			scrollTop: posisi_scroll
+		}, 700)
+		$(window).scroll(function(){
+			localStorage.setItem('posisi /', $(window).scrollTop())
+		})
+	</script>
+</body>
+</html>

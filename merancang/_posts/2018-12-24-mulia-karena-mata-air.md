@@ -1,0 +1,115 @@
+---
+
+layout: post
+
+author: Rifa
+
+---
+
+
+
+Di sebuah desa di pelosok kota hiduplah laki-laki paruh baya bersama kedua putrinya. Desa itu bernama Guyup Tiyang. Mereka bertiga hidup di sebuah rumah berdinding anyaman bambu yang telah usang dengan dua ruang di dalamnya. Di belakang rumah itu terdapat dua pohon sawo yang lebat daun lagi buahnya. Sengaja memang, ayah dua orang putri itu menenam pohan sawo, sekedar tuk pengisi perut jika sesuap nasi tak mampu untuk dibeli untuk sang putri. Beruntung, tak selang sehari pun tak ada buah yang masak. Sebuah berkah yang tak terkira bagi manusia yang hidup dalam kondisi tak berpunya.
+
+
+
+Si sulung, Alma. Laki-laki paruh baya itu sangat bangga padanya. Ia mau mengalah, ia relakan tak bersekolah, “Tidak ayah tak usah merasa bersalah. Aku tak apa-apa jika aku harus tak bersekolah. Tapi aku meminta satu permintaan pada ayah” pintanya pada suatu ketika.
+
+“Apa itu nak?”, tanya sang ayah pada putri tercinta.
+
+“Izinkan Laila tetap bersekolah yah. Izinkan aku untuk menjalankan amanah ibu untuk menjaga Laila dengan baik. Aku akan membantu ayah jika perlu. Dan aku juga akan tetap menunaikan tugas-tugasku untuk menjaga rumah dan Laila selama ayah pergi berjualan ke kota. Kumohan yah, aku tak ingin saudaraku merasakan apa yang aku alami.”, pinta Alma sambil menggenggam erat tangan ayahnya menyakinkan.
+
+
+
+Di atas tikar usang itu, tak sepatah kata pun terucap dari bibir sang ayah. Hanya tetesan air mata yang mengalir dari pelupuk mata, dan dekapan sayang padanya, Alma. Betapa bersyukurnya dia memiliki putri berhati mulia bagaikan bidadari penghuni surga.
+
+
+
+
+
+ 
+
+Pada suatu pagi Sulaiman, ayah kedua putri itu pergi ke pengerajin mengambil barang-barang kerajinan yang akan dijualnya ke kota. Itulah pekerjaan yang selama ini ia geluti. Bekerja untuk menjualkan barang dagangan orang dan mendapat gaji sepeuluh persen dari hasil jualannya.
+
+
+
+Sekembalinya mengambil barang, ia sempatkan berpamitan pada sang putri untuk pergi, kali itu ia berpamitan pada Alma karena memang putri kecilnya, Laila sedang bersekolah. Ia berpamitan bahwa ia akan kembali dalam dua atau tiga hari ke depan. Ia juga tak lupa memberikan uang. Lembaran uang sepuluh ribu pun ia keluarkan dari sakunya, ia berikan pada Alma untuk perbekalan selama ia meninggalkannya. Alma menatap dalam uang itu, tapi ia harus ikhlas. Ia harus berusaha mencukupkan uang itu untuk keperluannya terlebih untuk Laila. Dalam hatinya, ia berkata bahwa ia akan menggunakan uang itu hanya untuk Laila. Biarlah dia hanya memakan sawo di belakang rumah asalkan Laila tetap memakan nasi.
+
+
+
+Laki-laki paruh baya itu pun berangkat, berjalan menyusuri jalan bebatuan dengan pohon-pohon tinggi di kiri-kanan. Berjalan berpuluh-puluh kilo, iya itulah yang harus ia lakukan untuk bisa sampai ke kota. Tak ada kendaraan yang bisa menjangkau desanya yang terletak di pelosok itu. Dalam perjalanannya yang memakan waktu itu, ia selalu menyenandungkan sholawat pada baginda nabi tercinta. Tak sedikitpun waktu ia buang sia-sia.
+
+
+
+Hingga pada suatu tempat ia merasa haus. Ia mencari-cari sumber mata air di sekeliling tempat itu. Akan tetapi sejauh mata memandang tak ada sumur atau sungai pun di tempat itu. Rumah pun tak ada pula. Hanya ada dia seorang diri. Hingga pada suatu ketika terlihat dari kejauhan seorang nenek-nenek tua dengan membawa kendi di kepalanya. Ia mendekat.
+
+
+
+“Nek, nek. Saya boleh bertanya” sapanya sopan pada nenek-nenek tua itu.
+
+“Apa nak?” jawab nenek tua.
+
+“Saya sangat haus. Kalau boleh tau di mana saya bisa menemukan air?” tanyanya.
+
+“Di sana,” sambil menunjukkan arah dengan tangan keriputnya. “Tak jauh dari sini ada sumur. Saya juga akan ke sana mengambil air. Mari ikut dengan saya” tukas nenek itu. Akhirnya Sulaiman pun mengikuti langkah sang nenek. Dan ternyata jalan menuju sumur itu sangatlah jauh.
+
+
+
+“Di manakah nenek tinggal. Mengapa tidak mengambil air di desa nenek saja” tanya Sulaiman kritis.
+
+Nenek itu menjelaskan bahwa ia tinggal di desa jauh di seberang jalan. Ia juga menjelaskan bahwa di desanya itu tak ada sumber mata air satu pun. Telah banyak usaha pembuatan sumur dilakukan akan tetapi hasilnya nihil. Oleh karena itu semua warga rela berjalan jauh untuk memperoleh air.
+
+
+
+Ya Allah. Rasa kasihan muncul dalam hati Sulaiman. Muncul niatan dalam hatinya untuk mencoba membuat sumur di desa itu. Insya Allah, jika Allah mengizinkan maka akan keluar mata air di tanah itu.
+
+
+
+Setelah minum dan berterima kasih pada sang nenek, ia bergegas menyelesaikan niatannya pergi ke kota untuk berjualan. Sampai pada akhirnya, setelah dua hari berlalu ia pun sampai di rumah dan menceritakan semua yang ia alami pada Alma. Termasuk niatannya untuk membangunkan sumur di desa itu.
+
+
+
+“Kenapa harus ayah. Tak usah lah yah. Lebih baik ayah berjualan ke kota. Mencari nafkah agar kehidupan kita menjadi lebih baik. Lagian membangun sumurkan juga butuh biaya untuk menyewa mesin bornya” Alma mengungkapkan pendapatnya pada sang ayah.
+
+Mendengar ungkapan putrinya, ia mencoba memahami. Ia paham kalau selama ini ia dan putrinya hidup dalam serba kekurangan. Tapi ia mencoba menjelaskan pada putrinya arti pentingnya tolong-menolong.
+
+“Nak, bukannya dulu kamu pernah bilang bahwa kamu merasa iri dengan orang-orang yang ditakdirkan bernasib kaya. Kamu bilang bahwa mereka beruntung bisa mendapatkan banyak pahala. Padahal mereka shalat seperti kita shalat. Nak, sebenarnya kita juga bisa bersedekah. Tetapi dalam bentuk yang lain. Menanam pohon misalnya. Ayah beri tahu mengapa ayah menanam pohon sawo di belakang rumah selain untuk kalian, ayah juga berniat untuk mendapatkan pahala, dengan oksigen yang dihasilkan misalnya. Kamu tahu kan kalau daun pohon sawo itu lebat?”. Alma mengangguk. “dan kamu tahu bahwa pohon sawo itu juga berbuah tanpa mengenal musim, berbuah banyak bukan? Dan tak jarang buah itu juga dimakan oleh kelelawar. Tapi, ayah ikhlas. Karena sebenarnya itu adalah sebuah sedekah. Nak, ayah paham mungkin kamu lelah dengan kehidupan yang terus seperti ini. Akan tetapi kondisi kita jangan sampai membuat kita hanya mementingkan kehidupan di dunia. Ingat bahwa kita juga punya kehidupan selanjutnya. Untuk mesin, ayah bisa pinjam pada teman baik ayah. Kebetulan ia punya” jelas sang ayah.
+
+
+
+Alma menunduk, ia merasa sangat malu dengan pendapat yang ia utarakan. Ia memeluk sang ayah dan berkata, “Aku izinkan ayah pergi menjalankan niat baik ayah dan aku akan selalu mendoakan ayah agar di desa itu keluar mata air”.
+
+“Semoga Allah meridhoi ayah” ucap Sulaiman sambil mengusap kepala putri dalam pelukannya.
+
+
+
+Hingga pada suatu hari, ia melaksanakan niat baiknya. Ia pergi ke desa itu dan memikul alat-alat bor yang telah ia pinjam dari teman baiknya. Ia mengumpulkan para kepala keluarga untuk bergotong royong membagun sebuah sumur. Sebelum memulai pengeborannya, ia menghimbau seluruh warga yang hadir untuk berdoa dan berserah diri pada Allah Dzat Yang Maha Berkehendak agar mengizinkan mata air keluar di desa itu. Pengeboran telah berlangsung beberapa saat, akan tetapi mata air belum juga muncul.
+
+
+
+“Ya Allah Yang Maha Pemurah, hamba mohon kemurahanmu untuk memunculkan mata air di desa ini. Hamba mohon Ya Robbi” doa Sulaiman setelah beberapa saat pengeboran dan belum juga muncul tanda-tanda keluarnya air. Hingga setelah doa itu selesai dan ia membaca basmallah air pun keluar. Semua warga bergembira dan mengucapkan rasa syukur pada Allah. Orang-orang desa pun berterima kasih pada Sulaiman.
+
+“Jangan, jangan berterima kasih padaku. Berterima kasihlah pada Allah. Ini bisa terjadi karena kehendak-Nya” jawab Sulaiman.
+
+
+
+
+
+ 
+
+Di samping itu, di sebuah rumah berdinding anyaman bambu yang telah usang yang dihuni Sulaiman beserta putrinya datanglah seorang laki-laki berjubah putih bersih membawa sebuah bingkisan.
+
+“Wa’alaikumussalam. Apa maksud dan tujuan tuan datang kemari” tanya Alma ketika membukakan pintu untuk laki-laki itu.
+
+“Saya ditugaskan oleh Majikan dari segala majikan untuk mengantarkan upah untuk ayahmu” kata laki-laki itu singkat.
+
+“Ayahku? Tidak, ayahku sedang di sebuah desa. Dan ia sedang membangun sumur di sana” jawab Alma.
+
+
+
+“Tidak, ini untuk ayahmu. Ayah dari dua orang putri bernama Alma dan Laila. Ia bernama Sulaiman. Ia hamba Allah yang sangat taat dan baik hati” jelas laki-laki itu dan menyerahkan bingkisan berisi uang dan makanan pada Alma.
+
+Alma pun menerimanya. Setelah itu laki-laki itu mengucap salam dan pergi. Tak sempat ia bertanya siapa namanya, laki-laki itu telah menghilang.
+
+
+
+Singkat cerita, dengan izin Allah kehidupan Sulaiman berbalik menjadi lebih baik. Kini Alma bisa bersekolah kembali, tak ada hari yang harus tidak bisa makan lagi. Sulaiman juga sangat dihormati dan disegani orang. Kini, ia menjadi pedagang sukses dengan sifat kedermawanan dan baik hatinya. Tak ada rasa iri lagi di hati Alma pada orang kaya, karena kini ia juga bisa melakukan apa yang mereka lakukan. Bersedekah.
